@@ -3,7 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valbuena99" alt="valbuena99" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **#Charlotte.**
+- 🔭 Actualmente estoy trabajando en **#Charlotte.** :construction: Proyecto en construcción :construction:
+
 
 - 🌱 Estoy aprendiendo más sobre **React y JavaScript.**
 
