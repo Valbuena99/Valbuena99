@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sebastian Valbuena</h1>
-<h3 align="center">A passionate frontend developer from Colombia.</h3>
+<h1 align="center">Hola 👋, Soy Sebastian Valbuena</h1>
+<h3 align="center">Un apasionado Desarrollador Front-end de Colombia.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valbuena99" alt="valbuena99" /></a> </p>
 
-- 🔭 I’m currently working on **#Charlotte.**
+- 🔭 Actualmente estoy trabajando en **#Charlotte.**
 
-- 🌱 I’m currently learning **React and JavaScript.**
+- 🌱 Estoy aprendiendo más sobre **React y JavaScript.**
 
-- 👯 I’m looking to collaborate on [Juan<>Web Desing.](https://discord.gg/5sdqgJSkDj)
+- 👯 Estoy colaborando con [Juan<>Web Desing.](https://discord.gg/5sdqgJSkDj)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Valbuena99](https://github.com/Valbuena99)
+- 👨‍💻 Todos mis proyectos disponibles en [GitHub](https://valbuena99.github.io./)
 
-- 📝 I regularly write articles about Technology and Programming [https://discord.gg/5sdqgJSkDj](https://discord.gg/5sdqgJSkDj)
+- 📝 Regularmente posteo cosas sobre Tecnología y Programación en [Discord](https://discord.gg/5sdqgJSkDj)
 
-- 💬 Ask me about **HTML, CSS, Figma and CorelDraw.**
+- 💬 Puedo ayudarte en **HTML, CSS, Figma y CorelDraw,** Contáctame.
 
-- 📫 How to reach me **https://discord.gg/5sdqgJSkDj**
+- 📫 Puedes llegar a mi por medio de [Discord](https://discord.gg/5sdqgJSkDj)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/infosebastian/](https://www.linkedin.com/in/infosebastian/)
+- 📄 Conoce mis experiencias en [LinkedIn](https://www.linkedin.com/in/infosebastian/)
 
-- ⚡ Fun fact **I like technology, I am passionately self-taught.**
+- ⚡ Dato Curioso: **Me gusta la tecnología, Soy un apasionado autodidacta.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Conectate conmigo:</h3>
+<p align="center">
 <a href="https://dev.to/valbuena99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="valbuena99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/infosebastian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infosebastian" height="30" width="40" /></a>
 </p>
