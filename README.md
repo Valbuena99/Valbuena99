@@ -33,4 +33,5 @@
 <h3 align="center">Apoyo:</h3>
 <div align="center"><p><a href="https://www.buymeacoffee.com/infosebastian"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infosebastian" /></a><a href="https://ko-fi.com/sebastianv99"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sebastianv99" /></a></p></div><br><br>
 
+<h3 align="center">Estadistica:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valbuena99&theme=dark" alt="valbuena99" /></p>
