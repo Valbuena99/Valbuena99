@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo más sobre **React y JavaScript.**
 
-- 👯 Estoy colaborando con [Juan<>Web Desing.](https://discord.gg/5sdqgJSkDj)
+- 👯 Estoy colaborando con [Desarrollo Web & Diseño Gráfico](https://discord.gg/DmuusYGwcT)
 
 - 👨‍💻 Todos mis proyectos disponibles en [GitHub](https://valbuena99.github.io./)
 
